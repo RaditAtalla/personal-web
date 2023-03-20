@@ -9,6 +9,7 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@100;400;500;600;700;900&display=swap" rel="stylesheet">
+    <script src="https://unpkg.com/feather-icons"></script>
 </head>
 <body>
     <header>
@@ -99,5 +100,9 @@
             <div class="school"></div>
         </div>
     </footer>
+
+    <script>
+        feather.replace()
+    </script>
 </body>
 </html>
